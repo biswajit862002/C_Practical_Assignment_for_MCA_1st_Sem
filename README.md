@@ -1,0 +1,2 @@
+# C_Practical_Assignment_for_MCA_1st_Sem
+C practical assignment
